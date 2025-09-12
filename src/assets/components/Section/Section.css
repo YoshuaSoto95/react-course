@@ -5,6 +5,8 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .hero__title {
@@ -20,10 +22,10 @@
 .hero__btn {
     background-color: #61dafb;
     border: none;
-    padding: 10px 20px;
+    padding: 1.1rem 6rem;
     font-size: 1em;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 15px;
     transition: background-color 0.3s ease;
 }
 
